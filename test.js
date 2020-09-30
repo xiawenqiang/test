@@ -1,1 +1,1 @@
-console.log('中秋节快乐')
+console.log('中秋节快乐,国庆节快乐')
